@@ -34,4 +34,3 @@ $b3 = new B($a2);
 $b4 = new B($b3);
 $c5 = new C($a1, $a2, $b4);
 
-var_dump($c5);
